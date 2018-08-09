@@ -23,7 +23,7 @@
     "eslint-plugin-react": "^7.9.1",
     "if-env": "^1.0.0",
     "preact-cli": "^2.0.0",
-    "prettier": "^1.13.5"
+    "prettier": "^1.14.2"
   },
   "dependencies": {
     "preact": "^8.3.0",
